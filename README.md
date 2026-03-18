@@ -31,14 +31,11 @@ Database: MySQL
 Run the Spring Boot application.
 Default server: http://localhost:8081/api/urls
 
-### Frontend
-Run the following commands: 
-npm install
-npm run dev  
-
 ## Instructions to Run Frontend
 cd Frontend
+
 npm install
+
 npm run dev
 
 Open browser:
