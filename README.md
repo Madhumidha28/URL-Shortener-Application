@@ -47,19 +47,19 @@ http://localhost:3000
 
 ## Assumptions or Tradeoffs
 
-Short code generation uses a simple random approach
-No authentication is implemented
-Analytics are basic (click count only)
-No caching is used for performance optimization
+- Short code generation uses a simple random approach
+- No authentication is implemented
+- Analytics are basic (click count only)
+- No caching is used for performance optimization
 
 ## Acceptance Criteria Covered
 
-URL creation works
-Redirect functionality works
-Click count increments correctly
-Recent URLs table is displayed
-Analytics chart is implemented
-UI is responsive
+- URL creation works
+- Redirect functionality works
+- Click count increments correctly
+- Recent URLs table is displayed
+- Analytics chart is implemented
+- UI is responsive
 
 ## Time Spent
 Approximately 10–12 hours were spent on development, testing, and UI adjustments.
