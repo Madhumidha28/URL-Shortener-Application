@@ -1,0 +1,21 @@
+CREATE DATABASE urlshortener;
+
+INSERT INTO url (original_url, short_code, clicks, created_at) VALUES
+('https://google.com', 'g123', 10, '2026-03-01'),
+('https://youtube.com', 'y456', 25, '2026-03-02'),
+('https://github.com', 'gh789', 5, '2026-03-03'),
+('https://stackoverflow.com', 'so111', 18, '2026-03-04'),
+('https://linkedin.com', 'ln222', 7, '2026-03-05'),
+('https://twitter.com', 'tw333', 12, '2026-03-06'),
+('https://facebook.com', 'fb444', 20, '2026-03-07'),
+('https://instagram.com', 'ig555', 15, '2026-03-08'),
+('https://netflix.com', 'nf666', 9, '2026-03-09'),
+('https://amazon.com', 'am777', 30, '2026-03-10'),
+('https://flipkart.com', 'fk888', 22, '2026-03-11'),
+('https://openai.com', 'ai999', 14, '2026-03-12'),
+('https://wikipedia.org', 'wk101', 6, '2026-03-13'),
+('https://reddit.com', 'rd202', 11, '2026-03-14'),
+('https://quora.com', 'qr303', 8, '2026-03-15'),
+('https://medium.com', 'md404', 13, '2026-03-16'),
+('https://udemy.com', 'ud505', 17, '2026-03-17'),
+('https://coursera.org', 'cr606', 19, '2026-03-18');
