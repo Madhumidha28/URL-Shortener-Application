@@ -23,6 +23,7 @@ Database: MySQL
 
 ### Backend
 Run the Spring Boot application.
+Default server: http://localhost:8081/api/urls
 
 ### Frontend
 Run the following commands: 
