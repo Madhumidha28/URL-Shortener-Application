@@ -20,10 +20,10 @@ Database: MySQL
 - Screenshots: UI images
 
 ## Prerequisites
-Node.js installed
-Java (JDK 17 or above)
-MySQL installed
-npm or yarn
+- Node.js installed
+- Java (JDK 17 or above)
+- MySQL installed
+- npm or yarn
 
 ## How to Run
 
